@@ -1,3 +1,3 @@
 # Folder-extension-sorter
 
-Python app sorting files in folder based on file extension
+Python app sorting files in folders created based on files extensions
